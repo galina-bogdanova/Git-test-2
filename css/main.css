@@ -5,3 +5,7 @@ body {
 h1 {
 	font-style: italic;
 }
+
+ul {
+	list-style-type: none;
+}
